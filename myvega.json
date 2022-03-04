@@ -4,7 +4,7 @@
      "url":"https://raw.githubusercontent.com/Maplub/AirQualityData/master/PM10_2018_daily.csv"
   },
   "title":{
-    "text":"PM10 heatmap homework",
+    "text":"PM10 heatmap Amornchai Kangsamutr 6130833121",
     "anchor": "middle",
     "fontSize": 16,
     "frame":"group",
@@ -12,8 +12,8 @@
   },
   "config":{
      "view":{
-        "strokeWidth":340,
-        "step":30
+        "strokeWidth":500,
+        "step":25
      },
      "axis":{
         "domain":true
